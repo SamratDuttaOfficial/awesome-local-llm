@@ -63,6 +63,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/microsoft/BitNet?style=social" height="17" align="texttop"/> [BitNet](https://github.com/microsoft/BitNet) - official inference framework for 1-bit LLMs
 - <img src="https://img.shields.io/github/stars/sgl-project/sglang?style=social" height="17" align="texttop"/> [sglang](https://github.com/sgl-project/sglang) - a fast serving framework for large language models and vision language models
 - <img src="https://img.shields.io/github/stars/jundot/omlx?style=social" height="17" align="texttop"/> [omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
+- <img src="https://img.shields.io/github/stars/Niko1221/Strata?style=social" height="17" align="texttop"/> [Strata](https://github.com/Niko1221/Strata) - Qwen3.8-Flash-Next on any consumer hardware
 - <img src="https://img.shields.io/github/stars/GeeeekExplorer/nano-vllm?style=social" height="17" align="texttop"/> [Nano-vLLM](https://github.com/GeeeekExplorer/nano-vllm) - a lightweight vLLM implementation built from scratch
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM?style=social" height="17" align="texttop"/> [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs
 - <img src="https://img.shields.io/github/stars/LostRuins/koboldcpp?style=social" height="17" align="texttop"/> [koboldcpp](https://github.com/LostRuins/koboldcpp) - run GGUF models easily with a KoboldAI UI
@@ -135,6 +136,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> [NVIDIA Nemotron v3](https://huggingface.co/collections/nvidia/nvidia-nemotron-v3) - a family of open models from NVIDIA with open weights, training data and recipes, delivering leading efficiency and accuracy for building specialized AI agents
 - <img src="https://img.shields.io/badge/Google-%234285F4?logo=google&logoColor=red" height="17" align="texttop"/> [Gemma 4](https://huggingface.co/collections/google/gemma-4) - a family of open models built by Google DeepMind, that are multimodal, handling text and image input (with audio supported on small models) and generating text output
 - <img src="https://img.shields.io/badge/Mistral%20AI-%23FA520F?logo=mistralai&logoColor=%23FFFFFF" height="17" align="texttop"/> [Mistral Medium 3.5](https://huggingface.co/collections/mistralai/mistral-medium-35) - The first flaship models from Mistral AI handling instruction-following, reasoning, and coding in a single set of opened-weights
+- [Muse Spark Open](https://huggingface.co/collections/meta-models/muse-spark-open) - an open weights natively multimodal model made by Meta with a context window of 1M tokens for coding and agentic work
 - <img src="https://img.shields.io/badge/OpenAI-%23412991?logo=openai" height="17" align="texttop"/> [gpt-oss](https://huggingface.co/collections/openai/gpt-oss-68911959590a1634ba11c7a4) - a collection of open-weight models from OpenAI, designed for powerful reasoning, agentic tasks, and versatile developer use cases
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> [gpt-oss-puzzle-88B](https://huggingface.co/nvidia/gpt-oss-puzzle-88B) - a deployment-optimized large language model developed by NVIDIA, derived from OpenAI's gpt-oss-120b
 - [Hunyuan](https://huggingface.co/collections/tencent/hunyuan-dense-model-6890632cda26b19119c9c5e7) - a collection of Tencent's open-source efficient LLMs designed for versatile deployment across diverse computational environments
@@ -142,13 +144,14 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> [OpenReasoning-Nemotron](https://huggingface.co/collections/nvidia/openreasoning-nemotron-687730dae0170059860f1f01) - a collection of models from NVIDIA, trained on 5M reasoning traces for math, code and science
 - [Kimi K2.5](https://huggingface.co/collections/moonshotai/kimi-k25) - a collection of open-source, native multimodal agentic models from Moonshot AI that advances practical capabilities in long-horizon coding, coding-driven design, proactive autonomous execution, and swarm-based task orchestration
 - [GLM-5.3](https://huggingface.co/collections/zai-org/glm-53) - a Z.ai's flagship model for long-horizon tasks
-- [Ling-3.0-flash](https://huggingface.co/inclusionAI/Ling-3.0-flash) - a native hybrid reasoning model from inclusionAI, operating with 124B total and 5.1B active parameters 
+- [Ling-3.1-flash](https://huggingface.co/inclusionAI/Ling-3.1-flash) - an upgraded native hybrid reasoning model from inclusionAI designed for complex, real-world tasks
 - [Granite 4.1](https://huggingface.co/collections/ibm-granite/granite-41-language-models) - efficient language models from IBM for multilingual generation, coding, RAG, and AI assistant workflows
 - [Ornith-1.5](https://huggingface.co/collections/ornith-ai/ornith-15) - a collection of open-source models for agentic tasks and coding
 - [EXAONE-4.5](https://huggingface.co/collections/LGAI-EXAONE/exaone-45) - LG's First Open-Weight Vision-Language Model for Industrial Intelligence
-- [Step-3.7-Flash](https://huggingface.co/collections/stepfun-ai/step-37-flash) - Mixture-of-Experts vision-language model for developers who need to scale agentic workflows that combine perception, search, and reasoning
+- [Step-5-Preview](https://huggingface.co/collections/stepfun-ai/step-5-preview) - StepFun's flagship model for agentic work
 - [Occamy-1.0](https://huggingface.co/Accio-Lab/occamy-1.0) - a compact agentic model purpose-built for real-world co-work
 - [MiniCPM5](https://huggingface.co/collections/openbmb/minicpm5) - a collection of SOTA on-device LLMs, small yet powerful
+- [LFM2.5](https://huggingface.co/collections/LiquidAI/lfm25) - a family of hybrid models designed for on-device deployment
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -156,13 +159,12 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 - [Qwen3-Coder-Next](https://huggingface.co/collections/Qwen/qwen3-coder-next) - a collection of Qwen's open-weight language models designed specifically for coding agents and local development
 - <img src="https://img.shields.io/badge/Mistral%20AI-%23FA520F?logo=mistralai&logoColor=%23FFFFFF" height="17" align="texttop"/> [Devstral 2](https://huggingface.co/collections/mistralai/devstral-2) - a couple of agentic LLMs for software engineering tasks, excelling at using tools to explore codebases, edit multiple files, and power SWE Agents
-- <img src="https://img.shields.io/badge/Mistral%20AI-%23FA520F?logo=mistralai&logoColor=%23FFFFFF" height="17" align="texttop"/> [Mellum 2](https://huggingface.co/collections/JetBrains/mellum-2) - an assistant model trained by JetBrain
+- <img src="https://img.shields.io/badge/Mistral%20AI-%23FA520F?logo=mistralai&logoColor=%23FFFFFF" height="17" align="texttop"/> [Mellum 2.1](https://huggingface.co/collections/JetBrains/mellum21) - an assistant model trained by JetBrain
 - [MiniMax-M3](https://huggingface.co/MiniMaxAI/MiniMax-M3) - a native multimodal model with 1M context
 - [MiniMax-M2](https://huggingface.co/collections/MiniMaxAI/minimax-m2) - a collection of SOTA models for real-world dev & agents
 - [Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1) - a 118B total parameter Mixture-of-Experts model with 8B activated parameters per token, designed for agentic coding and long-horizon work
 - [SWE-FastContext](https://huggingface.co/collections/microsoft/swe-fastcontext) - a family of code-search models from Microsoft powering the Explore subagent for coding agents
-- [OmniCoder-9B](https://huggingface.co/Tesslate/OmniCoder-9B) - a 9-billion parameter coding agent model built by Tesslate, fine-tuned on top of Qwen3.5-9B's hybrid architecture
-- [NousCoder-14B](https://huggingface.co/NousResearch/NousCoder-14B) - a competitive programming model post-trained on Qwen3-14B via reinforcement learning
+- [AesCode-32B](https://huggingface.co/microsoft/AesCode-32B) & [AesCode-8B](https://huggingface.co/microsoft/AesCode-8B) - models from Microsoft that generates information-rich visual artifacts such as slides, posters, and dashboards as HTML/CSS
 - [MusaCoder-27B](https://huggingface.co/MooreThreads/MusaCoder-27B) - a code model developed by Moore Threads for PyTorch-to-CUDA/MUSA native kernel generation
 
 [Back to Table of Contents](#table-of-contents)
@@ -171,6 +173,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 - [Qwen3-Omni](https://huggingface.co/collections/Qwen/qwen3-omni-68d100a86cd0906843ceccbe) - a collection of the natively end-to-end multilingual omni-modal foundation models from Qwen
 - [GLM-4.6V](https://huggingface.co/collections/zai-org/glm-46v) - a collection of open source multimodal models with native tool use from Zhipu AI
+- [MiniCPM-o & MiniCPM-V](https://huggingface.co/collections/openbmb/minicpm-o-and-minicpm-v) - multimodal models with leading performance
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -182,12 +185,12 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [Ming-Image-0.1-Design](https://huggingface.co/inclusionAI/Ming-Image-0.1-Design) - a 6B text-to-image model for UI, infographics, posters, and other text-rich visual designs
 - [Granite Vision](https://huggingface.co/collections/ibm-granite/granite-vision) - multimodal models from IBM built for visual document analysis and image understanding
 - [HunyuanImage](https://huggingface.co/collections/tencent/hunyuanimage) - a collection of image generation models from Tencent
-- [HunyuanVideo](https://huggingface.co/collections/tencent/hunyuanvideo) - a collection of video generation models from Tencent 
+- [HunyuanVideo](https://huggingface.co/collections/tencent/hunyuanvideo) - a collection of video generation models from Tencent
+- [Youtu-Parsing-Omni](https://huggingface.co/tencent/Youtu-Parsing-Omni) - a model from Tencent that parses documents, images, charts, geometry, audio and video into structured JSON
 - [Vidi](https://huggingface.co/collections/bytedance-research/vidi) - a collection of models for multimodal video understanding and creation
 - [FastVLM](https://huggingface.co/collections/apple/fastvlm-68ac97b9cd5cacefdd04872e) - a collection of VLMs with efficient vision encoding from Apple
-- [MiniCPM-o & MiniCPM-V](https://huggingface.co/collections/openbmb/minicpm-o-and-minicpm-v) - multimodal models with leading performance
+- [MiniCPM-V 4.7](https://huggingface.co/collections/openbmb/minicpm-v-47) - a collection of models with single-image, multi-image, and video understanding capabilities
 - [LFM2.5-VL](https://huggingface.co/collections/LiquidAI/lfm25-vl) - a collection of vision-language models, designed for on-device deployment
-- [ClipTagger-12b](https://huggingface.co/inference-net/ClipTagger-12b) -  a vision-language model (VLM) designed for video understanding at massive scale
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -211,7 +214,8 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 #### Retrieval-Augmented Generation
 
-- <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> [Nemotron RAG](https://huggingface.co/collections/nvidia/nemotron-rag) - a set of tools to build retrieval-augmented generation (RAG) systems, improve search and ranking accuracy, and extract structured data from complex docs
+- <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> [Nemotron Retriever](https://huggingface.co/collections/nvidia/nemotron-retriever) - models for embedding, reranking, and document parsing for RAG and agentic retrieval
+- <img src="https://img.shields.io/badge/Google-%234285F4?logo=google&logoColor=red" height="17" align="texttop"/> [EmbeddingGemma 2](https://huggingface.co/google/embeddinggemma-2) - an open multimodal embedding model built by Google DeepMind which maps text (incl. code), images, video, and audio inputs—and combinations thereof—into a single, unified 768-dimensional vector space
 - [Qwen3-Embedding](https://huggingface.co/collections/Qwen/qwen3-embedding) - a collection of the latest proprietary Qwen models, specifically designed for text embedding and ranking tasks
 - [Qwen3-VL-Embedding](https://huggingface.co/collections/Qwen/qwen3-vl-embedding) - an addition to the Qwen embedding models, specifically designed for multimodal information retrieval and cross-modal understanding
 - [Qwen3-Reranker](https://huggingface.co/collections/Qwen/qwen3-vl-reranker) - a collection of the latest proprietary Qwen models, engineered to refine embedding results
@@ -237,8 +241,12 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 #### Miscellaneous
 
+- [Decision 3.0](https://huggingface.co/collections/vllm-sr/decision-30) - a collection of Open multimodal foundation decision models
 - [WaterSheep](https://huggingface.co/samratduttaofficial/WaterSheep) - an open alternative to Jev that answers yes/no, choice, rating and multi-label questions about text with calibrated probabilities, locally or in the browser
 - [GLiNER2.5](https://huggingface.co/collections/fastino/gliner25-models) - a collection of models for schema-driven information extraction and classification
+- [clef](https://huggingface.co/Cloudflare/clef) - a multimodal model from Cloudflare that turns a state and a schema of typed questions into decisions
+- [d1-3B](https://huggingface.co/LiquidAI/d1-3B) & [d1-omni-600M](https://huggingface.co/LiquidAI/d1-omni-600M) - open source decision models
+- [Hy-Memory](https://huggingface.co/collections/tencent/hy-memory) - a compact long-term-memory writer model developed by Tencent to execute the write path inside external memory frameworks
 - [Intern-S2](https://huggingface.co/collections/internlm/intern-s2) - a collection of multimodal foundation models for scientific intelligence and long-horizon agents
 - [Holo4](https://huggingface.co/collections/Hcompany/holo4) - a collection of Visual Language Models for computer/mobile use, tool calls, and code
 - [Marco-MoE](https://huggingface.co/collections/AIDC-AI/marco-moe) - a suit of multilingual MoE models with highly-sparse architectures
@@ -277,14 +285,17 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/agno-agi/agno?style=social" height="17" align="texttop"/> [agno](https://github.com/agno-agi/agno) - a full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning
 - <img src="https://img.shields.io/github/stars/simstudioai/sim?style=social" height="17" align="texttop"/> [sim](https://github.com/simstudioai/sim) - open-source platform to build and deploy AI agent workflows
 - <img src="https://img.shields.io/badge/OpenAI-%23412991?logo=openai" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/openai/openai-agents-python?style=social" height="17" align="texttop"/> [openai-agents-python](https://github.com/openai/openai-agents-python) - a lightweight, powerful framework for multi-agent workflows
+- <img src="https://img.shields.io/github/stars/pingdotgg/t3code?style=social" height="17" align="texttop"/> [t3code](https://github.com/pingdotgg/t3code) - an agent harness control surface that enables control of the agents on your machine with a best-in-class mobile app
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/NVIDIA/NemoClaw?style=social" height="17" align="texttop"/> [NemoClaw](https://github.com/NVIDIA/NemoClaw) - run OpenClaw more securely inside NVIDIA OpenShell with managed inference
 - <img src="https://img.shields.io/github/stars/pydantic/pydantic-ai?style=social" height="17" align="texttop"/> [pydantic-ai](https://github.com/pydantic/pydantic-ai) - a Python agent framework designed to help you quickly, confidently, and painlessly build production grade applications and workflows with Generative AI
 - <img src="https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social" height="17" align="texttop"/> [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - an open-source framework to build, manage and run useful Autonomous AI Agents
 - <img src="https://img.shields.io/github/stars/camel-ai/camel?style=social" height="17" align="texttop"/> [camel](https://github.com/camel-ai/camel) - the first and the best multi-agent framework
 - <img src="https://img.shields.io/github/stars/microsoft/agent-framework?style=social" height="17" align="texttop"/> [agent-framework](https://github.com/microsoft/agent-framework) - a framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET
+- <img src="https://img.shields.io/github/stars/superset-sh/superset?style=social" height="17" align="texttop"/> [superset](https://github.com/superset-sh/superset) - an agentic IDE to orchestrate 100+ coding agents in parallel
 - <img src="https://img.shields.io/github/stars/neuml/txtai?style=social" height="17" align="texttop"/> [txtai](https://github.com/neuml/txtai) - all-in-one open-source AI framework for semantic search, LLM orchestration and language model workflows
 - <img src="https://img.shields.io/github/stars/katanemo/archgw?style=social" height="17" align="texttop"/> [archgw](https://github.com/katanemo/archgw) - a high-performance proxy server that handles the low-level work in building agents: like applying guardrails, routing prompts to the right agent, and unifying access to LLMs, etc.
 - <img src="https://img.shields.io/badge/Google-%234285F4?logo=google&logoColor=red" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/genkit-ai/genkit?style=social" height="17" align="texttop"/> [genkit](https://github.com/genkit-ai/genkit) - open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google
+- <img src="https://img.shields.io/github/stars/generalaction/emdash?style=social" height="17" align="texttop"/> [emdash](https://github.com/generalaction/emdash) - a desktop app for running AI coding agents in parallel
 - <img src="https://img.shields.io/github/stars/badboysm890/ClaraVerse?style=social" height="17" align="texttop"/> [ClaraVerse](https://github.com/badboysm890/ClaraVerse) - privacy-first, fully local AI workspace with Ollama LLM chat, tool calling, agent builder, Stable Diffusion, and embedded n8n-style automation
 - <img src="https://img.shields.io/badge/NVIDIA-%25?logo=nvidia&labelColor=white" height="17" align="texttop"/> <img src="https://img.shields.io/github/stars/NVIDIA/NeMo-Agent-Toolkit?style=social" height="17" align="texttop"/> [NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit) - an open-source library for efficiently connecting and optimizing teams of AI agents
 - <img src="https://img.shields.io/github/stars/deepsense-ai/ragbits?style=social" height="17" align="texttop"/> [ragbits](https://github.com/deepsense-ai/ragbits) - building blocks for rapid development of GenAI applications
@@ -358,7 +369,8 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/puppeteer/puppeteer?style=social" height="17" align="texttop"/> [puppeteer](https://github.com/puppeteer/puppeteer) - a JavaScript API for Chrome and Firefox
 - <img src="https://img.shields.io/github/stars/microsoft/playwright?style=social" height="17" align="texttop"/> [playwright](https://github.com/microsoft/playwright) - a framework for Web Testing and Automation
 - <img src="https://img.shields.io/github/stars/browserbase/stagehand?style=social" height="17" align="texttop"/> [stagehand](https://github.com/browserbase/stagehand) -  the AI Browser Automation Framework
-- <img src="https://img.shields.io/github/stars/nanobrowser/nanobrowser?style=social" height="17" align="texttop"/> [nanobrowser](https://github.com/nanobrowser/nanobrowser) -  open-source Chrome extension for AI-powered web automation
+- <img src="https://img.shields.io/github/stars/nanobrowser/nanobrowser?style=social" height="17" align="texttop"/> [nanobrowser](https://github.com/nanobrowser/nanobrowser) - open-source Chrome extension for AI-powered web automation
+- <img src="https://img.shields.io/github/stars/Tencent/BrowserSkill?style=social" height="17" align="texttop"/> [BrowserSkill](https://github.com/Tencent/BrowserSkill) - CLI + extension for browser automation across any shell-capable AI agent
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -368,6 +380,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/github/stars/milla-jovovich/mempalace?style=social" height="17" align="texttop"/> [mempalace](https://github.com/milla-jovovich/mempalace) - the highest-scoring AI memory system ever benchmarked
 - <img src="https://img.shields.io/github/stars/supermemoryai/supermemory?style=social" height="17" align="texttop"/> [supermemory](https://github.com/supermemoryai/supermemory) - memory engine and app that is extremely fast, scalable
 - <img src="https://img.shields.io/github/stars/topoteretes/cognee?style=social" height="17" align="texttop"/> [cognee](https://github.com/topoteretes/cognee) - memory for AI Agents in 5 lines of code
+- <img src="https://img.shields.io/github/stars/TencentCloud/tencentdb-agent-memory?style=social" height="17" align="texttop"/> [TencentDB-Agent-Memory](https://github.com/TencentCloud/tencentdb-agent-memory) -  a team-level memory hub for AI Agents
 - <img src="https://img.shields.io/github/stars/letta-ai/letta?style=social" height="17" align="texttop"/> [letta](https://github.com/letta-ai/letta) - the stateful agents framework with memory, reasoning, and context management
 - <img src="https://img.shields.io/github/stars/LMCache/LMCache?style=social" height="17" align="texttop"/> [LMCache](https://github.com/LMCache/LMCache) - supercharge your LLM with the fastest KV Cache Layer
 - <img src="https://img.shields.io/github/stars/NevaMind-AI/memU?style=social" height="17" align="texttop"/> [memU](https://github.com/NevaMind-AI/memU) - an open-source memory framework for AI companions
